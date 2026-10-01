@@ -98,6 +98,10 @@ The existing `--export-latex` option remains unchanged.
 
 The provided template targets Software IP Cards. Hardware IP Card formatting can use a separate template.
 
+## Next step: Link your IP card from Unified Access Platform
+
+Upload at Unified Access Platform https://openhwfoundation.github.io/uap/
+
 ## License
 
 Apache-2.0
